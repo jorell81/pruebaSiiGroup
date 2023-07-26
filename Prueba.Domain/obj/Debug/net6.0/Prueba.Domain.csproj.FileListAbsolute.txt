@@ -1,0 +1,15 @@
+F:\DESARROLLO\Sii Group\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.deps.json
+F:\DESARROLLO\Sii Group\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.dll
+F:\DESARROLLO\Sii Group\Prueba.Domain\bin\Debug\net6.0\Prueba.Domain.pdb
+F:\DESARROLLO\Sii Group\Prueba.Domain\bin\Debug\net6.0\Prueba.Core.dll
+F:\DESARROLLO\Sii Group\Prueba.Domain\bin\Debug\net6.0\Prueba.Core.pdb
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.AssemblyReference.cache
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfoInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.AssemblyInfo.cs
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.CoreCompileInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.csproj.CopyComplete
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.dll
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\refint\Prueba.Domain.dll
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\Prueba.Domain.pdb
+F:\DESARROLLO\Sii Group\Prueba.Domain\obj\Debug\net6.0\ref\Prueba.Domain.dll

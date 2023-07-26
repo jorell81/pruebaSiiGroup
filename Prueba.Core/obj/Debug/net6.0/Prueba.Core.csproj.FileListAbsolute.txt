@@ -1,0 +1,12 @@
+F:\DESARROLLO\Sii Group\Prueba.Core\bin\Debug\net6.0\Prueba.Core.deps.json
+F:\DESARROLLO\Sii Group\Prueba.Core\bin\Debug\net6.0\Prueba.Core.dll
+F:\DESARROLLO\Sii Group\Prueba.Core\bin\Debug\net6.0\Prueba.Core.pdb
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.csproj.AssemblyReference.cache
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.AssemblyInfoInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.AssemblyInfo.cs
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.csproj.CoreCompileInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.dll
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\refint\Prueba.Core.dll
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\Prueba.Core.pdb
+F:\DESARROLLO\Sii Group\Prueba.Core\obj\Debug\net6.0\ref\Prueba.Core.dll

@@ -1,0 +1,15 @@
+INSTRUCCIONES
+
+BACKEND
+copiar el proyecto de backend y asegurarse de tener el .net 5 instalado en el equipo
+abrir la solucion en Visual Studio IDE
+Ejecutar el proyecto  Prueba.Api
+Cuando se abra el navegador copiar la url hasta el puerto Ej: https://localhost:7155/
+
+FRONTEND
+copiar el proyecto Frontend.
+Abrir el proyecto con visual studio code.
+ejecutar en la terminal el comando npm install para que se creen todas las dependencias.
+En el archivo employee.service.ts pega la url que te dio el backend Ej: https://localhost:7155/api y agregale api al final
+ejecutar el comando ng serve -o para que el proyecto se ejecute y se abra automaticamente en el navegador.
+

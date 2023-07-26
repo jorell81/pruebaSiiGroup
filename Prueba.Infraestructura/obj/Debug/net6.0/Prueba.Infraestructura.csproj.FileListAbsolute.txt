@@ -1,0 +1,15 @@
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\bin\Debug\net6.0\Prueba.Infraestructura.deps.json
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\bin\Debug\net6.0\Prueba.Infraestructura.dll
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\bin\Debug\net6.0\Prueba.Infraestructura.pdb
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\bin\Debug\net6.0\Prueba.Core.dll
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\bin\Debug\net6.0\Prueba.Core.pdb
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.csproj.AssemblyReference.cache
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.AssemblyInfoInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.AssemblyInfo.cs
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.csproj.CoreCompileInputs.cache
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.csproj.CopyComplete
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.dll
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\refint\Prueba.Infraestructura.dll
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\Prueba.Infraestructura.pdb
+F:\DESARROLLO\Sii Group\Prueba.Infraestructura\obj\Debug\net6.0\ref\Prueba.Infraestructura.dll
